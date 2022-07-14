@@ -35,4 +35,10 @@ With the analysis complete, the results can be plotted by using the object orien
 
 
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+The following recommendations come from the graph above. The Urban city type shows the highest fares received, but this can be due to urban cities are highly populated. Would it be fair to increase the fare rate for the other two city types because they do not produce as much as the urban city type? Rural cities are considered small towns. Small communities may not have a need to use PyBer services. 
+The following recommendations to increase the fare and usage of PyBer in the three city types are: 
+
+1. Offer incentives for using PyBer, such as use PyBer 3 x and get the fourth ride for free. 
+2. Special discounts during large events. 
+3. For rural areas, partner with businesses or airports to provide services where there is the most need for rides. 
+
